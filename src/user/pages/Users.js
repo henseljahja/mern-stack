@@ -1,14 +1,13 @@
-import React from "react";
-
-import UsersList from "../components/UsersList";
+import React from 'react';
+import UsersList from '../components/UsersList';
 
 const Users = () => {
   const USERS = [
     {
-      id: "Id Number 1",
-      name: "hensel",
+      id: 'Id Number 1',
+      name: 'hensel',
       image:
-        "https://www.pixsy.com/wp-content/uploads/2021/04/edi-libedinsky-1bhp9zBPHVE-unsplash-1.jpeg",
+        'https://www.pixsy.com/wp-content/uploads/2021/04/edi-libedinsky-1bhp9zBPHVE-unsplash-1.jpeg',
       places: 3,
     },
   ];
